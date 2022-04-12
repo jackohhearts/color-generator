@@ -1,0 +1,41 @@
+body {
+    background-color: #96ACB7;
+}
+
+.mainbody {}
+
+.header {
+    display: flex;
+    justify-content: center;
+    border-bottom: solid black 2px;
+}
+
+
+.header2 {
+    display: flex;
+    justify-content: center;
+    border-bottom: solid black 2px;
+}
+
+
+
+.buttondiv {
+    padding-top: 3em;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 3em;
+    font-size: 1.5em;
+    background-color: #40376E;
+    color: #D4E4BC;
+    border-radius: 20%;
+    border-style: none;
+    border: solid black 1px;
+    shad
+}
+
+button:hover {
+    background-color: #48233C;
+}
